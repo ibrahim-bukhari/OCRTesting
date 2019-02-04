@@ -1,0 +1,37 @@
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\OCR.exe.config
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\201609071324133769-7-2016_13-24-13-376.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\DFE35161174404229001019550050000120571871721727.xml
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Dot Matric.tiff
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Dot Matrix.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Dot Matrix1.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Many combination .tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Normal vendor copy.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\OB10 fallouts .tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\photo copy format.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\phototest.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\x64\liblept172.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\x64\libtesseract304.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\x86\liblept172.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\x86\libtesseract304.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\DFE35161174404229001019550050000120571871721727.pdf
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Excel conversion.pdf
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Low quality image.pdf
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\OCR.exe
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\OCR.pdb
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\Tesseract.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\Tesseract.xml
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\obj\Debug\OCR.exe
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\obj\Debug\OCR.pdb
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.bigrams
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.fold
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.lm
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.nn
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.params
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.size
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.cube.word-freq
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.tesseract_cube.nn
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\tessdata\eng.traineddata
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Capture.PNG
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\Capture.tif
+c:\users\bukhari\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\invoices\sample.jpg
